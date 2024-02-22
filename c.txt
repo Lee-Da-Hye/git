@@ -1,1 +1,6 @@
-dfdfdfdfdfd
+c문서를 sub1브랜치에서 추가했습니다.
+cc anstjfmf sub브랜치에서 수정했씁니다.
+
+
+
+c문서를 main 브랜치에서 수저앴쓰니다.
